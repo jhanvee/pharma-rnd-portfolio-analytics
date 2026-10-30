@@ -1,0 +1,6 @@
+programme,therapy_area,current_stage,years_to_launch,base_success_probability,unrisked_npv_m,risk_adjusted_npv_m,remaining_dev_cost_m,peak_sales_m
+Helix-4,Cardiometabolic,Phase III,2,0.5,1178.9793797135894,498.8078716749766,190.0,500.0
+Nova-2,Immunology,Phase III,3,0.42,1211.8138573748847,372.61231383443175,260.0,650.0
+Orion-1,Oncology,Phase II,5,0.22,953.9396501535322,-54.66040615718504,420.0,900.0
+Lumen-5,Neurology,Phase II,6,0.2,608.7566158353329,-99.2779345454936,360.0,800.0
+Aster-3,Respiratory,Phase I,7,0.12,306.0576935984386,-283.6874118099531,510.0,700.0

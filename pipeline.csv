@@ -1,0 +1,6 @@
+programme,therapy_area,current_stage,years_to_launch,remaining_dev_cost_m,peak_sales_m,commercial_life_years,gross_margin,annual_commercial_cost_m,base_success_probability,success_probability_sd,dev_cost_cv,peak_sales_cv,launch_delay_sd_years,discount_rate
+Orion-1,Oncology,Phase II,5,420,900,8,0.78,110,0.22,0.06,0.20,0.30,1.2,0.12
+Nova-2,Immunology,Phase III,3,260,650,9,0.82,85,0.42,0.07,0.18,0.25,0.8,0.11
+Aster-3,Respiratory,Phase I,7,510,700,8,0.75,95,0.12,0.04,0.25,0.35,1.5,0.13
+Helix-4,Cardiometabolic,Phase III,2,190,500,10,0.80,70,0.50,0.06,0.15,0.22,0.6,0.10
+Lumen-5,Neurology,Phase II,6,360,800,7,0.77,100,0.20,0.05,0.22,0.32,1.3,0.12
